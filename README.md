@@ -63,7 +63,7 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - pt2314: Thư viện giao tiếp IC xử lý âm thanh số
 - fft: Thư viện biến đổi FFT (Fast Fourier Transform) 
 - at24cxx: Thư viện giao tiếp EEPROM AT24C02/08/32
-- flash: Thư viện sử dụng Flash mô phỏng EEPROM
+- flash: Thư viện sử dụng Flash giả lập EEPROM
 - ...
 
 ### Nội dung CMSIS
