@@ -39,7 +39,7 @@ Phần mềm, công cụ, tài liệu cần thiết:
 - HID Descriptor: Dùng để tạo Desciption USB Device
 - ...
 
-Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
+### Nội dung thư viện (libraries) (CMSIS + StdPeriph + LL):
 - startup: Thư viện cấu hình Clock hệ thống và Debug SW + JTAG khi khởi động
 - delay: Thư viện delay sử dụng SysTick
 - tim1delay: Thư viện delay sử dụng Timer1 thay thế cho SysTick (phù hợp cho FreeRTOS)
