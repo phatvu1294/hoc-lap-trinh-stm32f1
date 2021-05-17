@@ -11,6 +11,8 @@ Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn 
 
 Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đầu tiên (tham khảo lộ trình: HAL -> Stdperiph -> CMSIS -> LL -> FreeRTOS).
 
+Nên sử dụng FreeRTOS vào các dự án có nhiều task vụ xử lý, việc nắm rõ các phần cơ bản và ghép chúng thành một project lớn đòi hỏi nhiều kỹ năng và kinh nghiệm.
+
 Nội dung đầy đủ này chỉ dành cho chủ repo:
 - CMSIS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
