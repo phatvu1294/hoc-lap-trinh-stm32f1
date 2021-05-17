@@ -51,6 +51,8 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - st7920: Thư viện màn hình LCD Graphic 12864
 - pt2314: Thư viện giao tiếp IC xử lý âm thanh số
 - fft: Thư viện biến đổi FFT (Fast Fourier Transform) 
+- at24cxx: Thư viện giao tiếp EEPROM AT24C02/08/32
+- flash: Thư viện sử dụng Flash mô phỏng EEPROM
 - ...
 
 ### Nội dung CMSIS
