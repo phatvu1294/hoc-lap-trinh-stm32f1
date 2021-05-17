@@ -10,4 +10,4 @@ và chỉ có tệp **main.c** tham khảo
 
 ### Nội dung HAL
 
-### Nội dung Low-Layer
+### Nội dung Low-Layer + FreeRTOS
