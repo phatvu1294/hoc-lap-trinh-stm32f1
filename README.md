@@ -9,6 +9,8 @@ Bản đầy đủ private này đầy đủ source trên MDK-ARM/MDK-ARM Legacy
 
 Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code.
 
+Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đầu tiên (tham khảo lộ trình: HAL -> Stdperiph -> CMSIS -> LL).
+
 Nội dung đầy đủ này chỉ dành cho chủ repo:
 - CMSIS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
@@ -24,7 +26,7 @@ Phần mềm, công cụ cần thiết:
 - Hecules/RealTerm (USART)
 - HID Termial (Custom HID)
 - HID Descriptor (Tạo Desc USB Device)
-- 
+- ...
 
 Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - startup: Thư viện cấu hình Clock hệ thống và Debug
