@@ -5,7 +5,7 @@
 Bản rút gọn public này không hỗ trợ đầy đủ source trên MDK-ARM/MDK-ARM Legacy IDE sẽ bị **hạn chế một số nội dung**
 và chỉ có tệp **main.c** mang tính chất tham khảo.
 
-Bản đầy đủ private (riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo và code thủ công):
+Bản đầy đủ private (riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code):
 - CMSIS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
 - HAL (STM32CubeMX + MDK-ARM V5 IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
