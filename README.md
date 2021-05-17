@@ -2,7 +2,7 @@
 *Tự học lập trình STM32F1 Public bao gồm code mẫu thư viện CMSIS, StdPeriph, HAL, Low-Layer*
 
 ### Giới thiệu
-Bản rút gọn public này không hỗ trợ đầy đủ source trên KeilC sẽ bị **hạn chế một số nội dung**
+Bản rút gọn public này không hỗ trợ đầy đủ source trên MDK-ARM/MDK-ARM Legacy IDE sẽ bị **hạn chế một số nội dung**
 và chỉ có tệp **main.c** mang tính chất tham khảo.
 
 Bản đầy đủ private (riêng bản HAL có dùng thêm CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo và code thủ công):
