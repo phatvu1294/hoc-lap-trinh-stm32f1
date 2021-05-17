@@ -1,8 +1,14 @@
 # Học Lập Trình STM32F1 Public
 *Tự học lập trình STM32F1 Public bao gồm code mẫu thư viện CMSIS, StdPeriph, HAL, Low-Layer*
 
-Lưu ý: Bản public này không hỗ trợ đầy đủ source trên KeilC nên sẽ bị **hạn chế một số nội dung**
-và chỉ có tệp **main.c** tham khảo.
+- Bản rút gọn public này không hỗ trợ đầy đủ source trên KeilC sẽ bị **hạn chế một số nội dung**
+và chỉ có tệp **main.c** mang tính chất tham khảo.
+
+- Bản đầy đủ private:
+CMSIS: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
+StdPeriph: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
+HAL: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
+Low-Layer + FreeRTOS: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
 
 ### Nội dung CMSIS
 - 01#1_New_Project
