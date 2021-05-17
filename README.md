@@ -38,7 +38,7 @@ Phần mềm, công cụ, tài liệu cần thiết:
 Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - startup: Thư viện cấu hình Clock hệ thống và Debug SW + JTAG khi khởi động
 - delay: Thư viện delay sử dụng SysTick
-- tim1delay: Thư viện delay sử dụng Timer1 (phù hợp cho FreeRTOS)
+- tim1delay: Thư viện delay sử dụng Timer1 thay thế cho SysTick (phù hợp cho FreeRTOS)
 - usart1: Thư viện truyền thông nối tiếp USART1
 - spi1: Thư viện giao tiếp SPI1 mode Master
 - i2c1: Thư viện giao tiếp I2C1 mode Master
