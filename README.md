@@ -15,14 +15,37 @@ Nội dung đầy đủ này chỉ dành cho chủ repo:
 - HAL (STM32CubeMX + MDK-ARM V5 IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
 - Low-Layer + FreeRTOS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
 
-Phần mềm:
+Phần mềm, công cụ cần thiết:
 - MDK-ARM V5 IDE: https://www.keil.com/download/product/
 - MDK-ARM V5 Legacy IDE: https://www2.keil.com/mdk5/legacy
 - STM32CubeMX: https://www.st.com/en/development-tools/stm32cubemx.html
 - STM32StdPeriph: https://www.st.com/en/embedded-software/stm32-standard-peripheral-libraries.html
 - STM32CubeF1: https://www.st.com/en/embedded-software/stm32cubef1.html
+- Hecules / RealTerm (USART)
+- HID Termial (Custom HID)
+- HID Descriptor (Tạo Desc USB Device)
+- 
 
-Các thư viện (libraries) như startup, delay, usart, spi, i2c, lcd, pcf8574lcd, ssd1306, mpu6050, dht, ds18b20, infrared, ... chỉ có trong bản đầy đủ private.
+Các thư viện (libraries) như
+- startup: Thư viện cấu hình Clock hệ thống và Debug
+- delay: Thư viện delay sử dụng SysTick
+- tim1delay: Thư viện delay sử dụng Timer1 (phù hợp cho FreeRTOS)
+- usart1: Thư viện truyền thông nối tiếp USART1
+- spi1: Thư viện giao tiếp SPI mode Master
+- i2c1: Thư viện giao tiếp I2C1 mode Master
+- lcd: Thư viện LCD HD44780
+- pcf8574lcd: Thư viện LCD HD44780 + Module I2C PCF8574
+- ssd1306: Thư viện màn hình OLED SSD1306 I2C
+- mpu6050: thư viện cảm biến gia tốc và con quay hồi chuyền
+- dht: Thư viện DHT11/22
+- ds18b20: Thư viện DS18B20
+- sht: Thư viện SHT1x/7x
+- usbvcp: Thư viện USB Vitural ComPort
+- usbchid: Thư viện USB Custom HID
+- usbhid: Thư viện USB HID Mouse + Keyboard
+- usbaudio: Thư viện USB Audio (Speaker + Mic) tương thích với thiết bị hỗ trợ USB_OTG (như F105/F107, F407, ...)
+- infrared: Thư viện giải mã hồng ngoại NEC từ điều khiển
+- ...
 
 ### Nội dung CMSIS
 - 01#1_New_Project
