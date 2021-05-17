@@ -23,13 +23,13 @@ Phần mềm, công cụ cần thiết:
 - STM32CubeMX: https://www.st.com/en/development-tools/stm32cubemx.html
 - STM32StdPeriph: https://www.st.com/en/embedded-software/stm32-standard-peripheral-libraries.html
 - STM32CubeF1: https://www.st.com/en/embedded-software/stm32cubef1.html
-- Hecules/RealTerm (USART)
-- HID Termial (Custom HID)
-- HID Descriptor (Tạo Desc USB Device)
+- Hecules/RealTerm: Debug dữ liệu từ USART
+- HID Termial: Truyền nhận gói dữ liệu từ USB Custom HID
+- HID Descriptor: Dùng để tạo Desciption USB Device
 - ...
 
 Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
-- startup: Thư viện cấu hình Clock hệ thống và Debug khi khởi động
+- startup: Thư viện cấu hình Clock hệ thống và Debug SW + JTAG khi khởi động
 - delay: Thư viện delay sử dụng SysTick
 - tim1delay: Thư viện delay sử dụng Timer1 (phù hợp cho FreeRTOS)
 - usart1: Thư viện truyền thông nối tiếp USART1
