@@ -137,7 +137,7 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 
 ### Nội dung HAL
 - ~~01#1_Getting_Started~~
-- 02#1_HAL_Bai_2.1_New_Project
+- ~~02#1_HAL_Bai_2.1_New_Project~~
 - 02#2_HAL_Bai_2.2_SysTick_Timer
 - 03#1_RCC_Bai_3.1_System_Clocks_Configuration
 - ~~03#2_RCC_Bai_3.2_Software_Reset~~
