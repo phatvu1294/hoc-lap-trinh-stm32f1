@@ -9,7 +9,7 @@ Bản đầy đủ private này đầy đủ source trên MDK-ARM/MDK-ARM Legacy
 
 Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code.
 
-Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đầu tiên (tham khảo lộ trình: HAL -> Stdperiph -> CMSIS -> LL).
+Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đầu tiên (tham khảo lộ trình: HAL -> Stdperiph -> CMSIS -> LL -> FreeRTOS).
 
 Nội dung đầy đủ này chỉ dành cho chủ repo:
 - CMSIS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
@@ -29,7 +29,7 @@ Phần mềm, công cụ cần thiết:
 - ...
 
 Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
-- startup: Thư viện cấu hình Clock hệ thống và Debug
+- startup: Thư viện cấu hình Clock hệ thống và Debug khi khởi động
 - delay: Thư viện delay sử dụng SysTick
 - tim1delay: Thư viện delay sử dụng Timer1 (phù hợp cho FreeRTOS)
 - usart1: Thư viện truyền thông nối tiếp USART1
@@ -43,7 +43,7 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - ds18b20: Thư viện DS18B20
 - sht: Thư viện SHT1x/7x
 - lm35: Thư viện cảm biến nhiệt LM35
-- usbvcp: Thư viện USB Vitural ComPort
+- usbvcp: Thư viện USB Vitural ComPort (tránh nhầm lẫn với thư viện có tiền tố usbd (device) và usbh (host) từ ST)
 - usbchid: Thư viện USB Custom HID
 - usbhid: Thư viện USB HID Mouse + Keyboard
 - usbaudio: Thư viện USB Audio (Speaker + Microphone) tương thích với thiết bị hỗ trợ USB_OTG (như F105/F107, F407, F746, F769...) yêu cầu có IC Audio I2S
