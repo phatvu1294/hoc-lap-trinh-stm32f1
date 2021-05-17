@@ -5,7 +5,7 @@
 Bản rút gọn public này không hỗ trợ đầy đủ source trên MDK-ARM/MDK-ARM Legacy IDE sẽ bị **hạn chế một số nội dung**
 và chỉ có tệp **main.c** mang tính chất tham khảo.
 
-Bản đầy đủ private này đầy đủ source trên MDK-ARM/MDK-ARM Legacy IDE, ngoài ra sẽ có thêm tài liệu tham khảo, tài liệu cách sử dụng.
+Bản đầy đủ private hỗ trợ source trên MDK-ARM/MDK-ARM Legacy IDE, ngoài ra sẽ có thêm tài liệu tham khảo, tài liệu cách sử dụng.
 
 Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code.
 
