@@ -58,7 +58,7 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - usbvcp: Thư viện USB Vitural ComPort (tránh nhầm lẫn với thư viện có tiền tố usbd (device) và usbh (host) từ ST)
 - usbchid: Thư viện USB Custom HID
 - usbhid: Thư viện USB HID Mouse + Keyboard
-- usbaudio: Thư viện USB Audio (Speaker + Microphone) tương thích với thiết bị hỗ trợ USB_OTG (như F105/F107, F407, F746, F769...) yêu cầu có IC Audio I2S
+- usbaudio: Thư viện USB Audio (Speaker + Microphone) tương thích với thiết bị hỗ trợ USB_OTG stream audio trực tiếp từ USB (như F105/F107, F407, F746, F769...) yêu cầu có IC Audio I2S
 - infrared: Thư viện giải mã hồng ngoại NEC từ remote
 - st7920: Thư viện màn hình LCD Graphic 12864
 - pt2314: Thư viện giao tiếp IC xử lý âm thanh số
