@@ -5,7 +5,7 @@
 Bản rút gọn public này không hỗ trợ đầy đủ source trên KeilC sẽ bị **hạn chế một số nội dung**
 và chỉ có tệp **main.c** mang tính chất tham khảo.
 
-Bản đầy đủ private (chỉ có bản HAL dùng CubeMX để sinh project, còn lại đều dùng MDK MDK-ARM V5 Legacy IDE tạo thủ công):
+Bản đầy đủ private (riêng bản HAL có dùng thêm CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo và code thủ công):
 - CMSIS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
 - HAL (CubeMX + MDK-ARM IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
