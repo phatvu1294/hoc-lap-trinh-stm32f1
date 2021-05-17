@@ -74,5 +74,43 @@ và chỉ có tệp **main.c** tham khảo.
 - libraries
 
 ### Nội dung HAL
+- 01#1_Getting_Started
+- 02#1_HAL_Bai_2.1_New_Project
+- 02#2_HAL_Bai_2.2_SysTick_Timer
+- 03#1_RCC_Bai_3.1_System_Clocks_Configuration
+- 03#2_RCC_Bai_3.2_Software_Reset
+- 04#1_GPIO_Bai_4.1_Output_Configuration
+- 04#2_GPIO_Bai_4.2_Input_Configuration
+- 05#1_EXTI_Bai_5.1_External_Interrupt_Configuration
+- 06#1_NVIC_Bai_6.1_Interrupt_Priority_Configuration
+- 07#1_DMA_Bai_7.1_Memory_To_Memory_Mode
+- 07#2_DMA_Bai_7.1_Memory_To_Memory_Mode_IT
+- 08#1_UART_Bai_8.1_Polling_Mode
+- 08#2_UART_Bai_8.1_Data_Type_Conversion
+- 08#3_UART_Bai_8.2_Interrupt_Mode
+- 08#4_UART_Bai_8.2_RX_FIFO_Buffer
+- 08#5_UART_Bai_8.2_DMA_Mode
+- 09#1_TIM_Bai_9.1_Time_Based_Interrupt
+- 09#2_TIM_Bai_9.1_Encoder_Interface_Mode
+- 09#3_TIM_Bai_9.2_Output_Compare_Toggle
+- 09#4_TIM_Bai_9.2_PWM_Output
+- 09#5_TIM_Bai_9.3_Input_Capture
+- 09#6_TIM_Bai_9.3_PWM_Input
+- 10#1_ADC_Bai_10.1_Polling_Mode
+- 10#2_ADC_Bai_10.1_Interrupt_Mode
+- 10#3_ADC_Bai_10.2_Analog_Watchdog
+- 10#4_ADC_Bai_10.2_Scan_Mode
+- 10#5_ADC_Bai_10.3_Timer_Trigger
+- 10#6_ADC_Bai_10.3_Injected_Channel
+- 11#1_SPI_Bai_11.1_74595_Shift_Register
+- 12#1_I2C_Bai_12.1_AT24C08_EEPROM
+- 12#2_I2C_Bai_12.1_AT24C08_EEPROM_DMA
+- 12#3_I2C_Bai_12.2_Two_Boards_Communication
+- 12#4_I2C_Bai_12.2_Two_Boards_Communication_Master
+- 13#1_WDG_Bai_13.1_Window_Watchdog
+- 13#2_WDG_Bai_13.1_Independent_Watchdog
+- 14#1_PWR_Bai_14.1_Sleep_Mode
+- 14#2_PWR_Bai_14.1_Stop_Mode
+- 14#3_PWR_Bai_14.1_Standby_Mode
 
 ### Nội dung Low-Layer + FreeRTOS
