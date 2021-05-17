@@ -33,7 +33,7 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - delay: Thư viện delay sử dụng SysTick
 - tim1delay: Thư viện delay sử dụng Timer1 (phù hợp cho FreeRTOS)
 - usart1: Thư viện truyền thông nối tiếp USART1
-- spi1: Thư viện giao tiếp SPI mode Master
+- spi1: Thư viện giao tiếp SPI1 mode Master
 - i2c1: Thư viện giao tiếp I2C1 mode Master
 - lcd: Thư viện LCD HD44780
 - pcf8574lcd: Thư viện LCD HD44780 + Module I2C PCF8574
