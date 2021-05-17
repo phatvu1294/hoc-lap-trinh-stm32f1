@@ -21,12 +21,12 @@ Phần mềm, công cụ cần thiết:
 - STM32CubeMX: https://www.st.com/en/development-tools/stm32cubemx.html
 - STM32StdPeriph: https://www.st.com/en/embedded-software/stm32-standard-peripheral-libraries.html
 - STM32CubeF1: https://www.st.com/en/embedded-software/stm32cubef1.html
-- Hecules / RealTerm (USART)
+- Hecules/RealTerm (USART)
 - HID Termial (Custom HID)
 - HID Descriptor (Tạo Desc USB Device)
 - 
 
-Các thư viện (libraries) như
+Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - startup: Thư viện cấu hình Clock hệ thống và Debug
 - delay: Thư viện delay sử dụng SysTick
 - tim1delay: Thư viện delay sử dụng Timer1 (phù hợp cho FreeRTOS)
@@ -40,11 +40,15 @@ Các thư viện (libraries) như
 - dht: Thư viện DHT11/22
 - ds18b20: Thư viện DS18B20
 - sht: Thư viện SHT1x/7x
+- lm35: Thư viện cảm biến nhiệt LM35
 - usbvcp: Thư viện USB Vitural ComPort
 - usbchid: Thư viện USB Custom HID
 - usbhid: Thư viện USB HID Mouse + Keyboard
-- usbaudio: Thư viện USB Audio (Speaker + Mic) tương thích với thiết bị hỗ trợ USB_OTG (như F105/F107, F407, ...)
-- infrared: Thư viện giải mã hồng ngoại NEC từ điều khiển
+- usbaudio: Thư viện USB Audio (Speaker + Microphone) tương thích với thiết bị hỗ trợ USB_OTG (như F105/F107, F407, F746, F769...) yêu cầu có IC Audio I2S
+- infrared: Thư viện giải mã hồng ngoại NEC từ remote
+- st7920: Thư viện màn hình LCD Graphic 12864
+- pt2314: Thư viện giao tiếp IC xử lý âm thanh số
+- fft: Thư viện biến đổi FFT (Fast Fourier Transform) 
 - ...
 
 ### Nội dung CMSIS
