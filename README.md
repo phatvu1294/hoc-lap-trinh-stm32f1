@@ -17,12 +17,17 @@ Nội dung đầy đủ này chỉ dành cho chủ repo:
 - HAL (STM32CubeMX + MDK-ARM V5 IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
 - Low-Layer + FreeRTOS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
 
-Phần mềm, công cụ cần thiết:
+Phần mềm, công cụ, tài liệu cần thiết:
 - MDK-ARM V5 IDE: https://www.keil.com/download/product/
 - MDK-ARM V5 Legacy IDE: https://www2.keil.com/mdk5/legacy
 - STM32CubeMX: https://www.st.com/en/development-tools/stm32cubemx.html
 - STM32StdPeriph: https://www.st.com/en/embedded-software/stm32-standard-peripheral-libraries.html
 - STM32CubeF1: https://www.st.com/en/embedded-software/stm32cubef1.html
+- STM32F1 Reference Manual (RM0008): https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf
+- STM32F1 ARM Cortex-M3 Programming Manual (PM0056): https://www.st.com/resource/en/programming_manual/cd00228163-stm32f10xxx-20xxx-21xxx-l1xxxx-cortex-m3-programming-manual-stmicroelectronics.pdf
+- STM32F103C8T6 Datasheet: https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
+- FreeRTOS V10.0 Reference Manual: https://www.freertos.org/fr-content-src/uploads/2018/07/FreeRTOS_Reference_Manual_V10.0.0.pdf
+- CMSIS-RTOS2 V2: https://www.keil.com/pack/doc/CMSIS/RTOS2/html/group__CMSIS__RTOS.html
 - Hecules/RealTerm: Debug dữ liệu từ USART
 - HID Termial: Truyền nhận gói dữ liệu từ USB Custom HID
 - HID Descriptor: Dùng để tạo Desciption USB Device
