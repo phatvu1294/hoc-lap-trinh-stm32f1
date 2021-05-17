@@ -14,7 +14,7 @@ Nội dung đầy đủ này chỉ dành cho chủ repo:
 - HAL (STM32CubeMX + MDK-ARM V5 IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
 - Low-Layer + FreeRTOS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
 
-Các thư viện (libraries) như startup, delay, usart, spi, i2c, lcd, pcf8574lcd, ssd1306, mpu6050, dht, ds18b20, ... chỉ có trong bản đầy đủ private.
+Các thư viện (libraries) như startup, delay, usart, spi, i2c, lcd, pcf8574lcd, ssd1306, mpu6050, dht, ds18b20, infrared, ... chỉ có trong bản đầy đủ private.
 
 ### Nội dung CMSIS
 - 01#1_New_Project
