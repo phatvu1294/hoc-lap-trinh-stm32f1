@@ -7,8 +7,6 @@ và chỉ có tệp **main.c** mang tính chất tham khảo.
 
 Bản đầy đủ private hỗ trợ source trên MDK-ARM/MDK-ARM Legacy IDE, ngoài ra sẽ có thêm tài liệu tham khảo, tài liệu cách sử dụng.
 
-Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code.
-
 Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đầu tiên (tham khảo lộ trình: HAL -> Stdperiph -> CMSIS -> LL -> FreeRTOS).
 
 Nên sử dụng FreeRTOS vào các dự án có nhiều task vụ xử lý, việc nắm rõ các phần cơ bản và ghép chúng thành một project lớn đòi hỏi nhiều kỹ năng và kinh nghiệm.
@@ -18,6 +16,8 @@ Nội dung đầy đủ này chỉ dành cho chủ repo:
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
 - HAL (STM32CubeMX + MDK-ARM V5 IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
 - Low-Layer + FreeRTOS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
+
+Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code.
 
 Phần mềm, công cụ, tài liệu cần thiết:
 - MDK-ARM V5 IDE: https://www.keil.com/download/product/
