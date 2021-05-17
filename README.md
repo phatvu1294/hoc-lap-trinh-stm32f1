@@ -1,5 +1,5 @@
 # Học Lập Trình STM32F1 Public
-*Tự học lập trình STM32F1 Public bao gồm code mẫu thư viện CMSIS, StdPeriph, HAL, Low-Layer*
+*Tự học lập trình STM32F1 Public bao gồm code mẫu CMSIS, StdPeriph, HAL, Low-Layer, FreeRTOS*
 
 ### Giới thiệu
 Bản rút gọn public này không hỗ trợ đầy đủ source trên MDK-ARM/MDK-ARM Legacy IDE sẽ bị **hạn chế một số nội dung**
@@ -210,8 +210,8 @@ Phần mềm, công cụ, tài liệu cần thiết:
 - ~~12#2_I2C_AT24CXX_EERPOM_Library~~
 - ~~12#3_I2C_PCF8574_LCD_Library~~
 - ~~12#4_I2C_SSD1306_OLED_Library~~
-- ~~13#1_USB_Vitural_ComPort_Library~~
-- 13#2_USB_Winform_VCP_Terminal
+- 13#1_USB_Vitural_ComPort_Library
+- ~~13#2_USB_Winform_VCP_Terminal~~
 - ~~13#3_USB_Custom_HID_Library~~
 - ~~13#4_USB_HID_Mouse~~
 - ~~13#5_USB_HID_Keyboard~~
@@ -219,7 +219,7 @@ Phần mềm, công cụ, tài liệu cần thiết:
 - 14#1_RTOS2_Thread
 - 14#2_RTOS2_Event_Flag
 - ~~14#3_RTOS2_Message_Queue~~
-- 14#4_RTOS2_Mutex
+- ~~14#4_RTOS2_Mutex~~
 - ~~14#5_RTOS2_Binary_Semaphore~~
 - ~~14#6_RTOS2_Counting_Semaphore~~
 - ~~14#7_RTOS2_Software_Timer~~
