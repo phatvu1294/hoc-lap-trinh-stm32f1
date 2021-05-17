@@ -54,6 +54,7 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - ds18b20: Thư viện DS18B20
 - sht: Thư viện SHT1x/7x
 - lm35: Thư viện cảm biến nhiệt LM35
+- ntc: Thư viện cảm biến nhiệt NTC10K/100K
 - usbvcp: Thư viện USB Vitural ComPort (tránh nhầm lẫn với thư viện có tiền tố usbd (device) và usbh (host) từ ST)
 - usbchid: Thư viện USB Custom HID
 - usbhid: Thư viện USB HID Mouse + Keyboard
