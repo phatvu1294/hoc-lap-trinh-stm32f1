@@ -64,6 +64,7 @@ Các thư viện (libraries) private (CMSIS + StdPeriph + LL):
 - fft: Thư viện biến đổi FFT (Fast Fourier Transform) 
 - at24cxx: Thư viện giao tiếp EEPROM AT24C02/08/32
 - flash: Thư viện sử dụng Flash giả lập EEPROM
+- ws2812: Thư viện giao tiếp với LED WS2812/1903
 - ...
 
 ### Nội dung CMSIS
