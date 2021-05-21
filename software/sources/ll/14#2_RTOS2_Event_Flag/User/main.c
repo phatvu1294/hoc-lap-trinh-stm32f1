@@ -1,8 +1,6 @@
 #include "startup.h"
 #include "usart1.h"
-#include "cmsis_os.h"
-#include "FreeRTOS.h"
-#include "task.h"
+#include "cmsis_os2.h"
 
 /* Định nghĩa thread chính */
 osThreadId_t mainThreadHandle;

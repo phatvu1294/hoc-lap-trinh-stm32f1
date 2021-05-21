@@ -1,6 +1,6 @@
 #include "startup.h"
 #include "usart1.h"
-#include "cmsis_os.h"
+#include "cmsis_os2.h"
 
 /* FreeRTOS sử dụng SYSTICK làm nguồn clock chính */
 /* Không nên sử dụng thư viện delay với SYSTICK ở đây */
