@@ -228,4 +228,5 @@ Phần mềm, công cụ, tài liệu cần thiết:
 - ~~15#3_FREERTOS_Queue~~
 - ~~15#4_FREERTOS_Mutex~~
 - ~~15#5_FREERTOS_Software_Timer~~
+- ~~drivers~~
 - ~~libraries~~
