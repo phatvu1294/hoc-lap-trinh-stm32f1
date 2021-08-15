@@ -1,4 +1,4 @@
-# Học lập trình STM32F1 (public)
+# Học lập trình STM32F1
 *Tự học lập trình STM32F1 bao gồm code mẫu CMSIS, StdPeriph, HAL, Low-Layer, FreeRTOS*
 
 ### Giới thiệu
