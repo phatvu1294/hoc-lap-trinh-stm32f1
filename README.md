@@ -1,5 +1,5 @@
-# Học lập trình STM32F1 Public
-*Tự học lập trình STM32F1 Public bao gồm code mẫu CMSIS, StdPeriph, HAL, Low-Layer, FreeRTOS*
+# Học lập trình STM32F1 (public)
+*Tự học lập trình STM32F1 bao gồm code mẫu CMSIS, StdPeriph, HAL, Low-Layer, FreeRTOS*
 
 ### Giới thiệu
 Bản rút gọn public này không hỗ trợ đầy đủ source trên MDK-ARM/MDK-ARM Legacy IDE sẽ bị **hạn chế một số nội dung**
