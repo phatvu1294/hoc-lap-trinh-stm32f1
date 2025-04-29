@@ -17,8 +17,6 @@ Nội dung đầy đủ này chỉ dành cho chủ repo:
 - HAL (STM32CubeMX + MDK-ARM V5 IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
 - Low-Layer (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
 
-Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code.
-
 Phần mềm, công cụ, tài liệu cần thiết:
 - MDK-ARM V5 IDE: https://www.keil.com/download/product/
 - MDK-ARM V5 Legacy IDE: https://www2.keil.com/mdk5/legacy
