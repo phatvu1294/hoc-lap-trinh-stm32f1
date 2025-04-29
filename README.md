@@ -17,7 +17,7 @@ Nội dung dành cho cộng đồng:
 Nội dung đầy đủ này chỉ dành cho chủ repo:
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
 - HAL (STM32CubeMX + MDK-ARM V5 IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
-- Low-Layer + FreeRTOS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll-freertos
+- Low-Layer (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
 
 Lưu ý: Riêng bản HAL có dùng thêm STM32CubeMX để tạo project, còn lại chỉ dùng MDK MDK-ARM V5 Legacy IDE tạo project thủ công và code.
 
@@ -110,7 +110,7 @@ Các tài liệu hay về các ví dụ của Timer: https://github.com/phatvu12
 - 12#4_I2C_MPU6050
 - libraries
 
-### Nội dung StdPeriph (Public 1 phần)
+### Nội dung StdPeriph (Public 1 phần cũ)
 - ~~01#1_New_Project~~
 - ~~02#1_RCC_Configuration~~
 - 03#1_GPIO_Output_Mode
@@ -144,7 +144,7 @@ Các tài liệu hay về các ví dụ của Timer: https://github.com/phatvu12
 - ~~13#4_CAN_Normal_Two_Board~~
 - ~~libraries~~
 
-### Nội dung HAL (Public 1 phần)
+### Nội dung HAL (Public 1 phần cũ)
 - ~~01#1_Getting_Started~~
 - ~~02#1_HAL_Bai_2.1_New_Project~~
 - 02#2_HAL_Bai_2.2_SysTick_Timer
@@ -184,7 +184,7 @@ Các tài liệu hay về các ví dụ của Timer: https://github.com/phatvu12
 - ~~14#2_PWR_Bai_14.1_Stop_Mode~~
 - ~~14#3_PWR_Bai_14.1_Standby_Mode~~
 
-### Nội dung Low-Layer + FreeRTOS (Public 1 phần)
+### Nội dung Low-Layer (Public 1 phần cũ)
 - ~~01#1_New_Project~~
 - ~~02#1_RCC_Configuration~~
 - ~~02#2_RCC_Startup_Library~~
