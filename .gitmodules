@@ -2,3 +2,6 @@
 	path = sources/cmsis
 	url = https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 	branch = main
+[submodule "sources/stdperiph"]
+	path = sources/stdperiph
+	url = https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
