@@ -1,3 +1,4 @@
 [submodule "software/sources/cmsis"]
 	path = software/sources/cmsis
 	url = https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
+	branch = main
