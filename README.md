@@ -41,35 +41,6 @@ Phần mềm, công cụ, tài liệu cần thiết:
 - HID Descriptor: Dùng để tạo Desciption USB Device
 - ...
 
-### Nội dung thư viện (libraries) (CMSIS + StdPeriph + LL):
-- startup: Thư viện cấu hình Clock hệ thống và Debug SW + JTAG khi khởi động
-- delay: Thư viện delay sử dụng SysTick
-- tim1delay: Thư viện delay sử dụng Timer1 thay thế cho SysTick (phù hợp cho FreeRTOS)
-- usart1: Thư viện truyền thông nối tiếp USART1
-- spi1: Thư viện giao tiếp SPI1 mode Master
-- i2c1: Thư viện giao tiếp I2C1 mode Master
-- lcd: Thư viện LCD HD44780
-- pcf8574lcd: Thư viện LCD HD44780 + Module I2C PCF8574
-- ssd1306: Thư viện màn hình OLED SSD1306 I2C
-- mpu6050: thư viện cảm biến gia tốc và con quay hồi chuyền
-- dht: Thư viện DHT11/22
-- ds18b20: Thư viện DS18B20
-- sht: Thư viện SHT1x/7x
-- lm35: Thư viện cảm biến nhiệt LM35
-- ntc: Thư viện cảm biến nhiệt NTC10K/100K
-- usbvcp: Thư viện USB Vitural ComPort (tránh nhầm lẫn với thư viện có tiền tố usbd (device) và usbh (host) từ ST)
-- usbchid: Thư viện USB Custom HID
-- usbhid: Thư viện USB HID Mouse + Keyboard
-- usbaudio: Thư viện USB Audio (Speaker + Microphone) tương thích với thiết bị hỗ trợ USB_OTG stream audio trực tiếp từ USB (như F105/F107, F407, F746, F769, ...) yêu cầu có IC Audio I2S
-- infrared: Thư viện giải mã hồng ngoại NEC từ remote
-- st7920: Thư viện màn hình LCD Graphic 12864
-- pt2314: Thư viện giao tiếp IC xử lý âm thanh số
-- fft: Thư viện biến đổi FFT (Fast Fourier Transform) 
-- at24cxx: Thư viện giao tiếp EEPROM AT24C02/08/32
-- flash: Thư viện sử dụng Flash giả lập EEPROM
-- ws2812: Thư viện giao tiếp với LED WS2812/1903
-- ...
-
 ### Nội dung CMSIS (Bây giờ đã public)
 
 Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
