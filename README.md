@@ -8,6 +8,7 @@ Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đ�
 **Nội dung Public dành cho cộng đồng:**
 - CMSIS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
+- Các tài liệu về Timer: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis/tree/main/documents
 
 **Nội dung private chỉ dành cho chủ repo:**
 - HAL (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
@@ -32,18 +33,3 @@ Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đ�
 - HID Termial: Truyền nhận gói dữ liệu từ USB Custom HID
 - HID Descriptor: Dùng để tạo Desciption USB Device
 - ...
-
-### Nội dung CMSIS (Bây giờ đã public)
-
-Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
-
-Các tài liệu về Timer: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis/tree/main/documents
-
-### Nội dung StdPeriph (Bây giờ đã public)
-
-Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
-
-Các tài liệu về Timer: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph/tree/main/documents
-
-### Nội dung HAL (Private)
-### Nội dung Low-Layer (Private)
