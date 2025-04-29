@@ -73,6 +73,7 @@ Phần mềm, công cụ, tài liệu cần thiết:
 ### Nội dung CMSIS (Bây giờ đã public)
 
 Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
+Các tài liệu hay về các ví dụ của Timer: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis/documents
 
 - 01#1_New_Project
 - 02#1_RCC_Configuration
