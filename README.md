@@ -9,9 +9,7 @@ Bản đầy đủ private hỗ trợ source trên MDK-ARM/MDK-ARM Legacy IDE, n
 
 Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đầu tiên (tham khảo lộ trình: HAL -> Stdperiph -> CMSIS -> LL -> FreeRTOS).
 
-Nên sử dụng FreeRTOS vào các dự án có nhiều task vụ xử lý, việc nắm rõ các phần cơ bản và ghép chúng thành một project lớn đòi hỏi nhiều kỹ năng và kinh nghiệm.
-
-Nội dung dành cho cộng đồng:
+**Nội dung dành cho cộng đồng:**
 - CMSIS (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 
 Nội dung đầy đủ này chỉ dành cho chủ repo:
