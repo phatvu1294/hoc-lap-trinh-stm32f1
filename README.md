@@ -10,7 +10,7 @@ Việc học tập với HAL cực kỳ đơn giản, do đó nên học HAL đ�
 - StdPeriph (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
 - Các tài liệu về Timer: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis/tree/main/documents
 
-**Nội dung private chỉ dành cho chủ repo:**
+**Nội dung Private chỉ dành cho chủ repo:**
 - HAL (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
 - Low-Layer (MDK-ARM V5 Legacy IDE): https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
 
