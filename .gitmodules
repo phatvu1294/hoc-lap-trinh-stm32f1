@@ -6,3 +6,11 @@
 	path = sources/stdperiph
 	url = https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-stdperiph
 	branch = main
+[submodule "sources/hal"]
+	path = sources/hal
+	url = https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-hal
+	branch = main
+[submodule "sources/ll"]
+	path = sources/ll
+	url = https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-ll
+	branch = main
