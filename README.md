@@ -70,7 +70,7 @@ Phần mềm, công cụ, tài liệu cần thiết:
 - ws2812: Thư viện giao tiếp với LED WS2812/1903
 - ...
 
-### Nội dung CMSIS
+### Nội dung CMSIS (Bây giờ đã public)
 
 Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-trinh-stm32f1-cmsis
 
@@ -108,7 +108,7 @@ Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-tr
 - 12#4_I2C_MPU6050
 - libraries
 
-### Nội dung StdPeriph
+### Nội dung StdPeriph (Public 1 phần)
 - ~~01#1_New_Project~~
 - ~~02#1_RCC_Configuration~~
 - 03#1_GPIO_Output_Mode
@@ -142,7 +142,7 @@ Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-tr
 - ~~13#4_CAN_Normal_Two_Board~~
 - ~~libraries~~
 
-### Nội dung HAL
+### Nội dung HAL (Public 1 phần)
 - ~~01#1_Getting_Started~~
 - ~~02#1_HAL_Bai_2.1_New_Project~~
 - 02#2_HAL_Bai_2.2_SysTick_Timer
@@ -182,7 +182,7 @@ Liên kết đầy đủ đến source: https://github.com/phatvu1294/hoc-lap-tr
 - ~~14#2_PWR_Bai_14.1_Stop_Mode~~
 - ~~14#3_PWR_Bai_14.1_Standby_Mode~~
 
-### Nội dung Low-Layer + FreeRTOS
+### Nội dung Low-Layer + FreeRTOS (Public 1 phần)
 - ~~01#1_New_Project~~
 - ~~02#1_RCC_Configuration~~
 - ~~02#2_RCC_Startup_Library~~
